@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Considerations on JavaScript frameworks"
+title: "Considerations on React"
 date: 2017-09-25 00:02:00
 categories: Programming
 ---
