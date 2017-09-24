@@ -4,8 +4,6 @@ title: "Considerations on JavaScript frameworks"
 date: 2017-09-25 00:02:00
 categories: Programming
 ---
-## Introduction
-
 For the past few years there has been a sharp increase in front-end
 tools. From Bower to Webpack to Grunt to Gulp, making it harder for
 interested people to jump in and start learning front-end web
