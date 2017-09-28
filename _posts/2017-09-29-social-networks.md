@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Arrival"
+title: "On social networks and anonimity"
 date: 2017-09-29 01:12
 categories: Ramblings
 ---
