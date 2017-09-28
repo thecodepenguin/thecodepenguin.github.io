@@ -7,24 +7,23 @@ categories: Ramblings
 
 Social networks have become an integral part of life for a lot of people. They
 may seem like a relatively new invention, becoming part of our general culture
-and way of life in massive numbers
-[[http://www.pewinternet.org/2015/10/08/social-networking-usage-2005-2015/][from
-2008 onwards]]. But truth is, there has always been a social aspect to the
-internet since its early days.
+and way of life in massive numbers (from 2008
+onwards)[http://www.pewinternet.org/2015/10/08/social-networking-usage-2005-2015/].
+But truth is, there has always been a social aspect to the internet since its
+early days.
 
 There are some of us who remember an internet without Facebook, Twitter or
 Instagram. Instead of Slack and Reddit, we had IRC and message boards. 4chan was
-still in its infancy (some greybeards still cursing the
-[[https://en.wikipedia.org/wiki/Eternal_September][Eternal September]] will
-excuse me). The technical requirements to access this social sphere of the
-internet were a bit higher then than today. There were no smartphones, no apps,
-nothing to make it easier for you to sign up and start taking part of this
-social internet.
+still in its infancy (some greybeards still cursing the (Eternal
+September)[https://en.wikipedia.org/wiki/Eternal_September] will excuse me). The
+technical requirements to access this social sphere of the internet were a bit
+higher then than today. There were no smartphones, no apps, nothing to make it
+easier for you to sign up and start taking part of this social internet.
 
 But even in those early, chaotic days there was some order to be had. People
-followed [[https://en.wikipedia.org/wiki/Etiquette_in_technology][netiquette]],
+followed (netiquette)[https://en.wikipedia.org/wiki/Etiquette_in_technology],
 they had to unless they wanted to be flamed to kingdom come. Even new users
-quickly learned it was best not to piss other users.
+quickly learned it was best not to piss off other users.
 
 The early internet communities were not to be taken seriously, lest you wanted
 to get hurt. This, in my opinion was a central tenet of the ethical framework
