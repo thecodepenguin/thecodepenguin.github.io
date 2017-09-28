@@ -7,7 +7,7 @@ categories: Ramblings
 
 Social networks have become an integral part of life for a lot of people. They
 may seem like a relatively new invention, becoming part of our general culture
-and way of life in massive numbers[from 2008 onwards](http://www.pewinternet.org/2015/10/08/social-networking-usage-2005-2015/).
+and way of life in massive numbers [from 2008 onwards](http://www.pewinternet.org/2015/10/08/social-networking-usage-2005-2015/).
 But truth is, there has always been a social aspect to the internet since its
 early days.
 
