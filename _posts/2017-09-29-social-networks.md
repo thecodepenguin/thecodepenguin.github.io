@@ -13,7 +13,7 @@ early days.
 
 There are some of us who remember an internet without Facebook, Twitter or
 Instagram. Instead of Slack and Reddit, we had IRC and message boards. 4chan was
-still in its infancy (some greybeards still cursing the[Eternal
+still in its infancy (some greybeards still cursing the [Eternal
 September](https://en.wikipedia.org/wiki/Eternal_September) will excuse me). The
 technical requirements to access this social sphere of the internet were a bit
 higher then than today. There were no smartphones, no apps, nothing to make it
