@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "On social networks and anonimity"
+title: "On social networks and anonymity"
 date: 2017-09-29 01:12
 categories: Ramblings
 ---
@@ -32,8 +32,8 @@ consciousness.
 
 All of this child-like feeling of wonder and sense of being able to do
 everything and nothing without no repercussions whatsoever was made possible by
-one thing and one thing only. Anonimity. For the first time in human history we
-could talk and discuss with our fellow humans in total anonimity. It did not
+one thing and one thing only. Anonymity. For the first time in human history we
+could talk and discuss with our fellow humans in total anonymity. It did not
 matter who you were, what mattered was what you had to say.
 
 Of course, we used this new opportunity to post pictures of cats and bully our
@@ -41,11 +41,11 @@ fellow human beings. But that was (and still is) irrelevant if you knew how to
 navigate and a small price to pay to finally be able to have a world-wide
 /agora/ where everyone could come and discuss their ideas and truly speak their
 minds without shame or fear of repercussion because of the invisible and
-all-powerful mantle of anonimity.
+all-powerful mantle of anonymity.
 
 The most important advice you could give a new internet user was: "Do not use
 your real name as a username". It was unthinkable to use your real name to
-identify yourself in an online community. Anonimity was strictly enforced if not
+identify yourself in an online community. Anonymity was strictly enforced if not
 encouraged.
 
 This is why I find it extremely odd how everyone is now happy to use their real
@@ -57,7 +57,7 @@ your grandma will not know or even care about netiquette. But with the massive
 use of social networks the internet has become just a mirror of real life. You
 sign in on Facebook, you check what your friends are up to, they check what you
 are up to. Of course, this sort of inter-connectivity would not have been
-possible without internet or with a strictly enforced anonimity. But is it worth
+possible without internet or with a strictly enforced anonymity. But is it worth
 it?
 
 The world wide web is one of the most important inventions of mankind. It's the
@@ -67,6 +67,6 @@ side of the world to speak their mind with impunity. It's what makes it possible
 for that 50-something year old woman living next to you to publish her thoughts
 without repercussion or shame.
 
-I'm not saying that anonimity is the be-all end-all tool for human
+I'm not saying that anonymity is the be-all end-all tool for human
 freedom. Acknowledgment is also important. But it's also important to know that
 we have this tool available to us. We should use it. 
