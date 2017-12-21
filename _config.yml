@@ -2,6 +2,8 @@ name: Codepenguin
 description: Blogging about code and stuff
 meta_description: "Blogging about code and stuff"
 
+sass:
+  sass_dir: _sass
 markdown: kramdown
 highlighter: rouge
 logo: false

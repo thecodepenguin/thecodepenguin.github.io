@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css?family=Rubik');
+
+$blue: #313167;
+$grey: #747b74;
+$orange: #b66e56;
+$red: #a33a36;
+$yellow: #fee7a3;
+
+h1 {
+    font-size: 2rem;
+}
+
+h2 {
+    font-size: 1.8rem;
+}
+
+h3 {
+    font-size: 1.6rem;
+}
+
+h4 {
+    font-size: 1.4rem;
+}
+
+h5 {
+    font-size: 1.2rem;
+}
+
+body {
+    font-family: 'Rubik', sans-serif;
+    font-size: 16px;
+    background: lighten($grey, 40%);
+    color: darken($grey, 35%);
+}
+
+.header {
+    background: $red;
+    text-align: center;
+    margin-bottom: 5rem;
+    height: 20rem;
+    color: darken($yellow, 15%);
+
+    .col-center {
+        height: 10%;
+        margin-top: 6rem;
+    }
+}
+
+.row {
+    display: flex;
+    margin-left: 1rem;
+    margin-right: 1rem;
+
+    &.post {
+        margin-bottom: 2rem;
+    }
+}
+
+.col {
+    flex: 1;
+}
+
+.col-center {
+    width: 50%;
+    margin-right: 25%;
+    margin-left: 25%;
+}
+
+a {
+    color: $blue;
+    text-decoration: none;
+}
+
+a:hover {
+    color: darken($blue, 10%);
+}
