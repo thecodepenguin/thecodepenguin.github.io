@@ -17,6 +17,9 @@
     border-radius: 0.5rem; }
 
   .post-image {
+    display: none; }
+
+  footer {
     display: none; } }
 @media only screen and (min-width: 600px) {
   .container {
@@ -49,7 +52,21 @@
   .post-image {
     height: 20rem;
     margin-bottom: 2rem;
-    margin-top: -4rem; } }
+    margin-top: -4rem; }
+
+  footer {
+    margin-top: 1.5rem;
+    padding-top: 1rem;
+    padding-bottom: 2.5rem;
+    background: #a33a36;
+    height: 3.5rem;
+    text-align: center;
+    color: #fee7a3;
+    border-radius: 0.5rem; }
+    footer a {
+      color: #feeebc; }
+      footer a:hover {
+        color: #fdd357; } }
 h1 {
   font-size: 2rem; }
 
@@ -87,20 +104,6 @@ a {
   color: #313167; }
   a:hover {
     color: #181833; }
-
-footer {
-  margin-top: 1.5rem;
-  padding-top: 1rem;
-  padding-bottom: 2.5rem;
-  background: #a33a36;
-  height: 3.5rem;
-  text-align: center;
-  color: #fee7a3;
-  border-radius: 0.5rem; }
-  footer a {
-    color: #feeebc; }
-    footer a:hover {
-      color: #fdd357; }
 
 .pagination {
   margin-top: 2rem;
