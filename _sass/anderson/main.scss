@@ -64,6 +64,10 @@ $yellow: #fee7a3;
     .post-image {
         display: none;
     }
+
+    footer {
+        display: none;
+    }
 }
 
 @media only screen and (min-width: 600px) {
@@ -95,6 +99,25 @@ $yellow: #fee7a3;
         height: 20rem;
         margin-bottom: 2rem;
         margin-top: -4rem;
+    }
+
+    footer {
+        margin-top: 1.5rem;
+        padding-top: 1rem;
+        padding-bottom: 2.5rem;
+        background: $red;
+        height: 3.5rem;
+        text-align: center;
+        color: $yellow;
+        border-radius: 0.5rem;
+
+        a {
+            color: lighten($yellow, 5%);
+
+            &:hover {
+                color: darken($yellow, 15%);
+            }
+        }
     }
 }
 
@@ -153,24 +176,6 @@ a {
 }
 
 
-footer {
-    margin-top: 1.5rem;
-    padding-top: 1rem;
-    padding-bottom: 2.5rem;
-    background: $red;
-    height: 3.5rem;
-    text-align: center;
-    color: $yellow;
-    border-radius: 0.5rem;
-
-    a {
-        color: lighten($yellow, 5%);
-
-        &:hover {
-            color: darken($yellow, 15%);
-        }
-    }
-}
 
 .pagination {
     margin-top: 2rem;
