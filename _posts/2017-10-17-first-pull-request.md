@@ -2,6 +2,7 @@
 layout: post
 title: "First pull request"
 date: 2017-10-17
+categories: FOSS
 ---
 
 I have seen a lot of people online that want tips on how to start contributing

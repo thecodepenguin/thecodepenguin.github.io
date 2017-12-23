@@ -7,6 +7,8 @@ $orange: #b66e56;
 $red: #a33a36;
 $yellow: #fee7a3;
 
+$background: lighten($grey, 40%);
+
 @mixin link($color) {
     color: $color;
 
@@ -39,11 +41,11 @@ $yellow: #fee7a3;
 }
 
 @mixin header {
-    background: $red;
+    background: $background;
     text-align: center;
     margin-bottom: 5rem;
     height: 20rem;
-    color: darken($yellow, 15%);
+    color: $orange;
     border-radius: 0.5rem;
 }
 
@@ -84,7 +86,7 @@ $yellow: #fee7a3;
         @include header;
 
         a {
-            $color: darken($yellow, 15%);
+            $color: lighten($orange, 5%);
             @include link($color);
         }
 
@@ -102,10 +104,10 @@ $yellow: #fee7a3;
     }
 
     footer {
-        margin-top: 1.5rem;
+        margin-top: 6.5rem;
         padding-top: 1rem;
         padding-bottom: 2.5rem;
-        background: $red;
+        background: lighten($red, 25%);
         height: 3.5rem;
         text-align: center;
         color: $yellow;
