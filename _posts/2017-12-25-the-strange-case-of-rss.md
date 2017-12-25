@@ -1,5 +1,5 @@
 ---
-Title: "The strange case of RSS"
+title: "The strange case of RSS"
 categories: Internet
 layout: post
 date: 2017-12-24 10:00:00
