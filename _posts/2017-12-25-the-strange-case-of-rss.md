@@ -1,5 +1,5 @@
 ---
-Title: We should give RSS another chance
+Title: "The strange case of RSS"
 categories: Internet
 layout: post
 date: 2017-12-24 10:00:00
