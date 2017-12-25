@@ -63,7 +63,7 @@ article posted you will be sure to see it, regardless of how rare or
 infrequent new posts are.
 
 However, it's also very easy to follow hundreds of RSS feeds some of which
-might publish tens of articles in a day an find yourself overwhelmed with
+might publish tens of articles a day and find yourself overwhelmed with
 thousands of unread items the next time you open your client. But this is
 mostly an issue with the mindset of the user and the reader that one uses
 instead of the RSS format itself. A good RSS reader should let you skim all
