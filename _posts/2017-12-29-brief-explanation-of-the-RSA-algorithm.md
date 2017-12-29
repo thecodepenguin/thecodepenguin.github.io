@@ -96,11 +96,11 @@ $$ c^d \equiv (M^a)^d \equiv M \pmod{n} $$
 
 The public key is ($$ n = 377 $$, $$ a = 67 $$). The encryption function is:
 
-$$ c(M) = M^67 \pmod{377} $$
+$$ c(M) = M^{67} \pmod{377} $$
 
 The private key is (n = 377, d = 79). The decryption function is:
 
-$$ M(c) = c^79 \mod 377 $$
+$$ M(c) = c^{79} \mod 377 $$
 
 *Whew*, it wasn't that brief, was it? Hopefully you made it until here. Next
 week I will publish Part 2 with a code example that shows the algorithm in
