@@ -7,7 +7,7 @@ $orange: #b66e56;
 $red: #a33a36;
 $yellow: #fee7a3;
 
-$background: lighten($grey, 40%);
+$background: lighten($grey, 45%);
 
 @mixin link($color) {
     color: $color;
@@ -147,7 +147,7 @@ h5 {
 body {
     font-family: 'Rubik', sans-serif;
     font-size: 18px;
-    background: lighten($grey, 40%);
+    background: $background;
     color: darken($grey, 35%);
 }
 

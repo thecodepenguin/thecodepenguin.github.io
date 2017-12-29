@@ -4,7 +4,6 @@ title: "On social networks and anonymity"
 date: 2017-09-29 01:12
 categories: Ramblings
 ---
-
 Social networks have become an integral part of life for a lot of people. They
 may seem like a relatively new invention, becoming part of our general culture
 and way of life in massive numbers [from 2008 onwards](http://www.pewinternet.org/2015/10/08/social-networking-usage-2005-2015/).
