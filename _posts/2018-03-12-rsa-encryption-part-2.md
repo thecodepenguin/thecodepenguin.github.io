@@ -1,8 +1,8 @@
 ---
-title: (Part 2) a programming intro to the RSA Encryption algorithm
+title: (Part 2) A programming intro to the RSA Encryption algorithm
 layout: post
 date: 2018-03-12
-categories: Programming
+categories: Programming, Encryption
 ---
 
 For the second part of the RSA Encryption tutorial we will be finally diving
