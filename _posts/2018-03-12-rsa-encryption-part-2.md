@@ -1,20 +1,15 @@
-
-# Table of Contents
-
-
-
-    ---
-    title: RSA Encryption Part 2
-    layout: post
-    date: 2018-03-12
-    categories: Programming
-    ---
+---
+title: RSA Encryption Part 2
+layout: post
+date: 2018-03-12
+categories: Programming
+---
 
 For the second part of the RSA Encryption tutorial we will be finally diving
 into some real-world code (Rust in this case).
 
 First things first we need to write a function that generates a random prime
-greater than \[ \sqrt{2}*2^(k-1) \]
+greater than $$ \sqrt{2}*2^(k-1) $$
 
     fn randomPrime(bits: u32) -> u32{
         /*
