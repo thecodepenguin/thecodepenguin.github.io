@@ -31,19 +31,18 @@
     <meta name="MobileOptimized" content="320" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-    <link rel="stylesheet" type="text/css" href="/assets/css/main.css" />
+    <link rel="stylesheet" type="text/css" href="/assets/css/skeleton.css" />
     <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Merriweather:300,700,700italic,300italic|Open+Sans:700,400" />
     <!-- Customisation  -->
     <link rel="stylesheet" type="text/css" href="/assets/css/main.css" />
-
 </head>
 <body class="{% if page.post_class %}{{page.post_class}}{% else %}home-template{% endif %}">
 
     <div class="container">
-        <div class="row header">
+        <div class="row">
             <div class="header-content">
                 <h1><a href="/">CODEPENGUIN</a></h1>
-                <h2>Writing about code and stuff</h2>
+                <h4>Writing about code and stuff</h4>
             </div>
         </div>
         {{ content }}

@@ -5,21 +5,13 @@ archive: false
 post_class: post-template
 ---
 
-<main class="content" role="main">
+<main itemtype="https://schema.org/Article" class="content" role="main">
 
     <article class="post">
         <header class="post-header">
-            {% if page.image %}
             <div class="row">
-                <div class="col">
-                    <div class="post-image" style="background: url(/assets/images/posts/{{page.image}})">
-                    </div>
-                </div>
-            </div>
-            {% endif %}
-            <div class="row">
-                <div class="col center">
-                    <h1 class="post-title">{{ page.title }}</h1>
+                <div class="ten columns">
+                    <h1 itemprop="headline" class="post-title">{{ page.title }}</h1>
                     <div class="post-meta">
                         <time class="post-date" datetime="{{ page.date | date:"%Y-%m-%d" }}">{{ page.date | date_to_string }}</time>
                         {% if page.categories.size > 0 %}
