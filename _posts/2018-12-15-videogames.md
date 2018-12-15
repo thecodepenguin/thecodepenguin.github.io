@@ -1,0 +1,199 @@
+---
+layout: post
+title: "Video games as art"
+date: 2018-12-15
+---
+While spending some time on YouTube, watching your run-of-the-mill
+time-wasting videos, I came across a video that listed the "Game of
+the Year" winners from 1980 through 2018. So I clicked on it with the
+intent of seeing how many of them I could guess.
+
+The guessing game soon turned into a trip down memory lane. Countless
+hours spent amidst the vivid colors of the world of Super Mario, the
+grey wastelands of Fallout, and the majestic scenery of The
+Witcher. But as I was watching Joel trying to sneak past some bandits
+in The Last of Us, I remembered how that game, for the first time in
+my life made me feel like a video game had the potential to be as
+powerful and as expressive as any piece of art in the world.
+
+## Defining art
+
+Defining art is an exercise in futility. It's not a surprise that
+philosophers, thinkers, and artists have been trying to define it for
+so long. The fact that art is so personal, to both the creator and
+consumer, means that anyone who tries to define it will come up with a
+purely personal and subjective definition.
+
+There have been countless attempts to provide a theoretical definition
+of art, going as far back as Plato<sup><a id="fnr.1" class="footref" href="#fn.1">1</a></sup> and continuing into the current
+era. Some early definitions of art include:
+
+* Art as imitation or representation.
+* Art as a medium for emotional expression.
+* Art as 'significant form'.
+
+These definitions all have an immediate draw, but upon closer look one
+can see that these views lacking. Usually, these definitions are
+inhibited by the time period they were defined in. For example,
+Plato's definition in The Republic<sup><a id="fnr.1.100" class="footref" href="#fn.1">1</a></sup>:
+
+> [Socrates:] Which is the art of painting designed to be—an imitation
+> of things as they are, or as they appear—of appearance or of reality?
+> 
+> [Glaucon:] Of appearance.
+> 
+> [Socrates:] Then the imitator…is a long way off the truth…
+
+Shows that he (through Scorates) thinks of art (painting in this case)
+as merely an imitation of nature, only in appearance and not in
+essence. Which would make sense in the time period Plato lived
+in. There was no photography back then and people used to paint scenes
+of nature and other people in order to keep a visual memory of
+them. Paintings at the time did not try to capture a particular
+feeling, they only strived to be as faithful to reality (or what the
+ancient Greeks thought of as ideal reality) as possible. But as time
+passed and technology advanced, the camera was invented which made the
+need for painting realistic scenery disappear. New forms of painting
+were developed, from Expressionism to Cubism to Dadaism. Art forms which
+sought to capture feelings and expressions rather than trying to be
+realistic and imitate only the appearance of nature. Does that mean
+that Rembrandt or Picasso are not artists? Does this mean that
+Picasso's Guernica is not a piece of art? Certainly not. The problem
+is that Plato could not have predicted the invention of photography
+and the artistic revolution that would follow it.
+
+An important distinction to make when defining something as complex as
+art is the one between nominal and real definitions. A nominal
+definition defines the *idea* that a word stands for, while a real
+definition defines what it is what that word refers to. In that way, a
+real definition for a word X would identify a set of properties unique
+to X and that only X has. For example, a real definition for *red*
+would be that red constitutes the light waves with wavelengths in the
+625-740 nanometer range. A nominal definition on the other hand,
+states that red is the color associated with strawberries, heat, and
+love.
+
+Webster dictionary defines art as<sup><a id="fnr.2" class="footref" href="#fn.2">2</a></sup>:
+
+> the conscious use of skill and creative imagination especially in the
+> production of aesthetic objects
+
+However, that is neither the *nominal* nor entirely the *real*
+definition. A dictionary would try to give a real definition
+everywhere it's possible. But in the case of art, it's especially hard
+and dare I say, impossible to find a set of properties associated only
+with what we consider art.
+
+In *The Role of Theory in Aesthetics*<sup><a id="fnr.3"
+class="footref" href="#fn.3">3</a></sup>, Morris Weitz argues that any
+real definition of art would fail because works of art are related to
+one-another like an interconnected web of nodes than by some rigid and
+unchangeable set of properties. Works of art are more similar to a
+family tree than a rigid and unchangeable set of creations. This
+resemblance to a family was first advanced by Wittgenstein and it
+proposes that groups given a common name and thought to be connected
+by a common, essential feature are, rather, connected by a network of
+overlapping features. The same way a family that shares
+characteristics like: height, eye color, facial features, overlap and
+criss-cross throughout the family tree.
+
+By that logic, video games can be derived as a reasonable "family
+member" of art forms that are generally accepted as such. For example,
+movies or even graphic novels.
+
+## Critics
+
+Comparing video games to movies can sometimes be problematic. There are
+similarities, of course. Most video games follow a strict,
+predetermined storyline. Sometimes there are different ways you can
+reach the end of a story, or even different endings much like an
+interactive movie where each player is the director of the movie they
+are watching, or rather, participating in.
+
+However, this great freedom can also be a hindrance in trying to
+define whether video games are an art form or not. To take an example
+from Roger Ebert, it would be as if *Romeo & Juliet* had an optional
+happy ending. Such an ending, according to Ebert would hinder the
+artistic expression and emotional weight of the original work<sup><a
+id="fnr.4" class="footref" href="#fn.4">4</a></sup>.
+
+Another argument that Ebert poses against video games being art, is,
+that a game has points, objectives, and rules<sup><a id="fnr.5"
+class="footref" href="#fn.5">5</a></sup>.
+
+> One obvious difference between art and games is that you can win a
+> game. It has rules, points, objectives, and an outcome. Santiago might
+> cite a [sic] immersive game without points or rules, but I would say
+> then it ceases to be a game and becomes a representation of a story, a
+> novel, a play, dance, a film. Those are things you cannot win; you can
+> only experience them.
+
+So, according to Ebert, the difference between a video game and a movie
+is that you play the former to win and not to experience something
+that was made just for being experienced. But a movie has rules as
+well, rules that are constrained within the borders of storytelling. A
+character in a movie, much like in a video game cannot break the rules
+of the story. At least in a good movie that is. Aragorn cannot pull
+out his cellphone to contact Frodo and ask him how his quest is
+going. In that same way, Joel in *The Last of Us* cannot survive a
+fall from a large height much like in real life. 
+
+Surprisingly, another person who agreed with Ebert was Hideo Kojima,
+arguably the most renowned and well-known video game designer today. He
+argued that while video games may contain artwork, they aim to provide
+100% player satisfaction, while art is targeted at least to one
+person. Video Game creation, he argues, is more of a service than an
+artistic endeavor<sup><a id="fnr.6" class="footref"
+href="#fn.6">6</a></sup>. However, that argument would also disqualify
+99% of movies and most musical albums being released today. In an
+increasingly capitalistic world, even works of art are released with
+the intention of maximizing both sales and consumer satisfaction. So
+is it really fair to say that video games are not art solely on the
+basis that video game designers make them with the aim of maximizing
+sales? Can that assumption be made? Surely, video games released by big
+publishers are released with the aim of maximum profit, but there must
+be some indie developers who make games for the purpose of making
+games.
+
+On the other hand, there are plenty of art critics who have come in
+the defense of video games as an art form. One of them is journalist
+Patricia Hernandez, who, in an article about the game *Photopia*,
+describes the solution of a puzzle which makes a reveal about the
+playable character, prompting, according to Hernandez, experiences
+that could not be "as powerful as they are" in any other art form
+without interactivity<sup><a id="fnr.7" class="footref"
+href="#fn.7">7</a></sup>. Storytelling in video games happens in the
+present tense, and in first-person. In more ways than one, you are
+*part* of the story. In that regard, there are many who consider
+video games to be the ultimate art form.
+
+Circling back to Weitz's definition of art forms being interconnected
+with each-other through similarities much like a family-tree,
+video games do not fit any rigid definition derived from looking at
+existing works of art that are accepted as such. Instead, video games
+have many similarities to story-driven and visual art forms while
+creating something new through interactivity and first-person
+storytelling.
+
+It's hard to make predictions on where video games will go. They are an
+artform in its infancy similar like cave paintings made by
+prehistoric humans. But one thing is for sure, video games have opened
+a new door and made it possible to explore new ways in which human
+creativity can be used.
+
+
+### Footnotes
+
+<sup id="fn.1">1</sup> *The Republic, Book X*
+
+<sup id="fn.2">2</sup> <https://www.merriam-webster.com/dictionary/art>
+
+<sup id="fn.3">3</sup> <http://www2.hawaii.edu/~freeman/courses/phil330/24.%20The%20Role%20of%20Theory%20in%20Aesthetics.pdf>
+
+<sup id="fn.4">4</sup> <https://www.rogerebert.com/rogers-journal/games-vs-art-ebert-vs-barker>
+
+<sup id="fn.5">5</sup> <https://web.archive.org/web/20111010001841/http://blogs.suntimes.com/ebert/2010/04/video_games_can_never_be_art.html>
+
+<sup id="fn.6">6</sup> <https://www.eurogamer.net/articles/news240106kojimaart>
+
+<sup id="fn.7">7</sup> <http://nightmaremode.thegamerstrust.com/2013/01/19/a-moment-of-perfect-beauty/>
